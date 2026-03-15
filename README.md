@@ -105,3 +105,6 @@ La recherche sémantique repose sur des embeddings vectoriels (1536 dimensions).
 La base contient 38 projets soutenus par le Crédit Agricole PACA, couvrant les départements 04, 06 et 83. Chaque projet inclut le nom, la ville, le département, la date, l'état d'avancement, le type et une description.
 
 Pour mettre à jour la base, modifier `info_projet.json` puis relancer `python embedder.py` pour régénérer l'index.
+
+## Demo 
+
