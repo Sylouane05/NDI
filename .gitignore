@@ -1,0 +1,21 @@
+# Clé API — ne JAMAIS versionner
+cle.env
+.env
+
+# Index embeddings — générés localement par embedder.py
+embeddings.npy
+embed_ids.json
+
+# Environnement Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db

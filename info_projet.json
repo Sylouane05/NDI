@@ -1,0 +1,572 @@
+[
+    {
+        "id": 1,
+        "nom_projet": "La Courge en Fête",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "83",
+        "ville": "Rians",
+        "date": "11/10/2025",
+        "etat": "finit",
+        "type_projet": "Culture & Terroir",
+        "description": "Fête du terroir célébrant les cucurbitacées avec exposants, animations et concours.",
+        "coordonnees": {
+            "lat": 43.6056,
+            "lng": 5.7567
+        }
+    },
+    {
+        "id": 2,
+        "nom_projet": "Bormes en Roue Libre (Caisses à Savon)",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "83",
+        "ville": "Bormes-les-Mimosas",
+        "date": "03/05/2025",
+        "etat": "finit",
+        "type_projet": "Sport & Loisirs",
+        "description": "2ème édition de la course folklorique de caisses à savon organisée par les 'K-LUS'.",
+        "coordonnees": {
+            "lat": 43.15,
+            "lng": 6.34
+        }
+    },
+    {
+        "id": 3,
+        "nom_projet": "Soirée Blues",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "83",
+        "ville": "Sillans-la-Cascade",
+        "date": "14/06/2025",
+        "etat": "finit",
+        "type_projet": "Culture & Musique",
+        "description": "Grande soirée concert Blues en plein air.",
+        "coordonnees": {
+            "lat": 43.5672,
+            "lng": 6.1783
+        }
+    },
+    {
+        "id": 4,
+        "nom_projet": "Inauguration Musée des Dinosaures (Dino Fox Museo)",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "83",
+        "ville": "Fox-Amphoux",
+        "date": "07/06/2025",
+        "etat": "finit",
+        "type_projet": "Culture & Patrimoine",
+        "description": "Ouverture officielle du musée situé sur un site paléontologique majeur.",
+        "coordonnees": {
+            "lat": 43.5866,
+            "lng": 6.0969
+        }
+    },
+    {
+        "id": 5,
+        "nom_projet": "Trail des Gorets",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "06",
+        "ville": "Gilette",
+        "date": "22/06/2025",
+        "etat": "finit",
+        "type_projet": "Sport",
+        "description": "Course nature (Trail) soutenue par la caisse locale de l'Estéron.",
+        "coordonnees": {
+            "lat": 43.85,
+            "lng": 7.16
+        }
+    },
+    {
+        "id": 6,
+        "nom_projet": "La Foulée des Gazelles",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "83",
+        "ville": "La Crau",
+        "date": "21/09/2025",
+        "etat": "finit",
+        "type_projet": "Solidarité & Sport",
+        "description": "Course caritative pour la prévention du cancer du sein (Octobre Rose).",
+        "coordonnees": {
+            "lat": 43.15,
+            "lng": 6.07
+        }
+    },
+    {
+        "id": 7,
+        "nom_projet": "Sensibilisation Sécurité Routière",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "83",
+        "ville": "Salernes",
+        "date": "24/05/2025",
+        "etat": "finit",
+        "type_projet": "Prévention",
+        "description": "Journée de sensibilisation organisée par le CIQ Salernes sur le Cours Bouge.",
+        "coordonnees": {
+            "lat": 43.5642,
+            "lng": 6.2333
+        }
+    },
+    {
+        "id": 8,
+        "nom_projet": "Ateliers Terra Numerica",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "06",
+        "ville": "Gilette",
+        "date": "11/2025",
+        "etat": "finit",
+        "type_projet": "Éducation & Numérique",
+        "description": "Atelier de découverte du numérique pour petits et grands.",
+        "coordonnees": {
+            "lat": 43.85,
+            "lng": 7.16
+        }
+    },
+    {
+        "id": 9,
+        "nom_projet": "Prix de l'Apprentissage (Nice)",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "06",
+        "ville": "Nice",
+        "date": "14/05/2025",
+        "etat": "finit",
+        "type_projet": "Éducation",
+        "description": "Remise de prix en partenariat avec la Légion d'Honneur au Palais des Rois Sardes.",
+        "coordonnees": {
+            "lat": 43.6961,
+            "lng": 7.2772
+        }
+    },
+    {
+        "id": 10,
+        "nom_projet": "Prix de l'Apprentissage (Toulon)",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "83",
+        "ville": "Toulon",
+        "date": "08/10/2025",
+        "etat": "finit",
+        "type_projet": "Éducation",
+        "description": "Remise de prix en partenariat avec la Légion d'Honneur à l'Hôtel du Département.",
+        "coordonnees": {
+            "lat": 43.1263,
+            "lng": 5.9272
+        }
+    },
+    {
+        "id": 11,
+        "nom_projet": "Comptoir by Bistrot Chalucet",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "83",
+        "ville": "Toulon",
+        "date": "2025",
+        "etat": "finit",
+        "type_projet": "Solidarité & Commerce",
+        "description": "Projet de l'AVATH : restauration solidaire et inclusive contre la précarité alimentaire.",
+        "coordonnees": {
+            "lat": 43.13,
+            "lng": 5.93
+        }
+    },
+    {
+        "id": 12,
+        "nom_projet": "Blanchisserie Solidaire ESAT",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "83",
+        "ville": "Toulon",
+        "date": "2025",
+        "etat": "finit",
+        "type_projet": "Solidarité & Services",
+        "description": "Ouverture de la blanchisserie de l'ESAT Le Clos Bonaparte aux particuliers.",
+        "coordonnees": {
+            "lat": 43.13,
+            "lng": 5.95
+        }
+    },
+    {
+        "id": 13,
+        "nom_projet": "Voile Bonheur (Chant des Dauphins)",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "83",
+        "ville": "Fréjus",
+        "date": "2025",
+        "etat": "finit",
+        "type_projet": "Solidarité & Handicap",
+        "description": "Remplacement du voilier pour emmener des enfants autistes en mer (Port-Fréjus).",
+        "coordonnees": {
+            "lat": 43.43,
+            "lng": 6.735
+        }
+    },
+    {
+        "id": 14,
+        "nom_projet": "Fauteuils-Ski (Secours Catholique)",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "04",
+        "ville": "Seyne-les-Alpes",
+        "date": "2025",
+        "etat": "finit",
+        "type_projet": "Solidarité & Sport",
+        "description": "Renouvellement de 15 fauteuils-ski pour les stations du 04.",
+        "coordonnees": {
+            "lat": 44.3506,
+            "lng": 6.3567
+        }
+    },
+    {
+        "id": 15,
+        "nom_projet": "Musée des Beaux-Arts (Inclusion)",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "83",
+        "ville": "Draguignan",
+        "date": "2025",
+        "etat": "finit",
+        "type_projet": "Culture & Solidarité",
+        "description": "Acquisition de tapis tuftés pour une expérience sensorielle des œuvres.",
+        "coordonnees": {
+            "lat": 43.5408,
+            "lng": 6.4664
+        }
+    },
+    {
+        "id": 16,
+        "nom_projet": "Musée des Écritures",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "83",
+        "ville": "Ampus",
+        "date": "2025",
+        "etat": "finit",
+        "type_projet": "Culture & Numérique",
+        "description": "Équipement d'une salle pour exposition numérique immersive.",
+        "coordonnees": {
+            "lat": 43.6067,
+            "lng": 6.3822
+        }
+    },
+    {
+        "id": 17,
+        "nom_projet": "Pêche Azur",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "06",
+        "ville": "Mandelieu-la-Napoule",
+        "date": "2025",
+        "etat": "finit",
+        "type_projet": "Environnement",
+        "description": "Étude et suivi de la pêche de loisir (Port de Mandelieu).",
+        "coordonnees": {
+            "lat": 43.5444,
+            "lng": 6.9366
+        }
+    },
+    {
+        "id": 18,
+        "nom_projet": "Préservation Corail Cladocora",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "06",
+        "ville": "Théoule-sur-Mer",
+        "date": "2025",
+        "etat": "finit",
+        "type_projet": "Environnement",
+        "description": "Action de l'association Naturdive au Port de la Rague.",
+        "coordonnees": {
+            "lat": 43.51,
+            "lng": 6.944
+        }
+    },
+    {
+        "id": 19,
+        "nom_projet": "Handfauteuil (Val Durance)",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "04",
+        "ville": "Sisteron",
+        "date": "2025",
+        "etat": "finit",
+        "type_projet": "Sport & Handicap",
+        "description": "Développement de la pratique du handball fauteuil inclusif.",
+        "coordonnees": {
+            "lat": 44.1972,
+            "lng": 5.9442
+        }
+    },
+    {
+        "id": 20,
+        "nom_projet": "Restauration Serre de la Madone",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "06",
+        "ville": "Menton",
+        "date": "2025",
+        "etat": "en cours",
+        "type_projet": "Patrimoine & Environnement",
+        "description": "Restauration du dispositif hydraulique du jardin historique.",
+        "coordonnees": {
+            "lat": 43.773,
+            "lng": 7.482
+        }
+    },
+    {
+        "id": 21,
+        "nom_projet": "Gestion Eau Jardin Val Rhameh",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "06",
+        "ville": "Menton",
+        "date": "2025",
+        "etat": "finit",
+        "type_projet": "Environnement",
+        "description": "Création d'un forage et aménagement de bassin pour l'autonomie en eau.",
+        "coordonnees": {
+            "lat": 43.7853,
+            "lng": 7.5116
+        }
+    },
+    {
+        "id": 22,
+        "nom_projet": "Maison de la Biodiversité",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "06",
+        "ville": "Contes",
+        "date": "2025",
+        "etat": "en cours",
+        "type_projet": "Environnement & Éducation",
+        "description": "Aménagement muséal d'un lieu dédié au patrimoine naturel local.",
+        "coordonnees": {
+            "lat": 43.8117,
+            "lng": 7.3139
+        }
+    },
+    {
+        "id": 23,
+        "nom_projet": "Nouveau Film Planétarium",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "04",
+        "ville": "Saint-Michel-l'Observatoire",
+        "date": "2025",
+        "etat": "finit",
+        "type_projet": "Culture & Science",
+        "description": "Centre d'Astronomie : acquisition de la licence du film 'Destination: Trou Noir'.",
+        "coordonnees": {
+            "lat": 43.91,
+            "lng": 5.73
+        }
+    },
+    {
+        "id": 24,
+        "nom_projet": "Rénovation Ludothèque Pilautis",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "06",
+        "ville": "Antibes",
+        "date": "2025",
+        "etat": "finit",
+        "type_projet": "Éducation & Solidarité",
+        "description": "Rénovation et aménagement de la salle créative de la ludothèque.",
+        "coordonnees": {
+            "lat": 43.5806,
+            "lng": 7.1258
+        }
+    },
+    {
+        "id": 25,
+        "nom_projet": "Vélo-Bus Scolaire",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "04",
+        "ville": "Sisteron",
+        "date": "2025",
+        "etat": "en cours",
+        "type_projet": "Environnement & Éducation",
+        "description": "Soutien au projet de transport scolaire écologique 'Vivre à l'école'.",
+        "coordonnees": {
+            "lat": 44.1972,
+            "lng": 5.9442
+        }
+    },
+    {
+        "id": 26,
+        "nom_projet": "Restauration Mosaïques Observatoire",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "06",
+        "ville": "Nice",
+        "date": "2025",
+        "etat": "en cours",
+        "type_projet": "Patrimoine",
+        "description": "Restauration des mosaïques du pavillon Henri Chrétien.",
+        "coordonnees": {
+            "lat": 43.727,
+            "lng": 7.299
+        }
+    },
+    {
+        "id": 27,
+        "nom_projet": "Cuisine en Soins Palliatifs",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "06",
+        "ville": "Nice",
+        "date": "2025",
+        "etat": "finit",
+        "type_projet": "Santé & Solidarité",
+        "description": "Projet de l'association Pallia-Aide au CHU de Nice (Hôpital l'Archet).",
+        "coordonnees": {
+            "lat": 43.7,
+            "lng": 7.23
+        }
+    },
+    {
+        "id": 28,
+        "nom_projet": "Restauration Maison du Paraïs (Giono)",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "04",
+        "ville": "Manosque",
+        "date": "2025",
+        "etat": "en cours",
+        "type_projet": "Patrimoine",
+        "description": "Acquisition de matériel de conservation pour les archives de Jean Giono.",
+        "coordonnees": {
+            "lat": 43.83,
+            "lng": 5.79
+        }
+    },
+    {
+        "id": 29,
+        "nom_projet": "Escape Game Handicap",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "04",
+        "ville": "Manosque",
+        "date": "2025",
+        "etat": "finit",
+        "type_projet": "Sensibilisation",
+        "description": "Projet 'Alerte chez Biotop Innov' par APF France Handicap.",
+        "coordonnees": {
+            "lat": 43.8333,
+            "lng": 5.7833
+        }
+    },
+    {
+        "id": 30,
+        "nom_projet": "Bricothèque Solidaire",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "06",
+        "ville": "Vence",
+        "date": "2025",
+        "etat": "finit",
+        "type_projet": "Environnement & Solidarité",
+        "description": "Acquisition d'outils et formations bricolage par l'association VIE.",
+        "coordonnees": {
+            "lat": 43.7231,
+            "lng": 7.1128
+        }
+    },
+    {
+        "id": 31,
+        "nom_projet": "Un Ballon Contre la Faim",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "04",
+        "ville": "Valensole",
+        "date": "2025",
+        "etat": "finit",
+        "type_projet": "Sport & Solidarité",
+        "description": "Action de soutien alimentaire portée par l'Alliance Sportive Valensole Gréoux.",
+        "coordonnees": {
+            "lat": 43.837,
+            "lng": 5.984
+        }
+    },
+    {
+        "id": 32,
+        "nom_projet": "Cuisine Solidaire (Du champ à l'assiette)",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "83",
+        "ville": "Belgentier",
+        "date": "2025",
+        "etat": "finit",
+        "type_projet": "Solidarité & Alimentation",
+        "description": "Ateliers de cueillette et cuisine pour bénéficiaires de l'aide alimentaire (Mairie).",
+        "coordonnees": {
+            "lat": 43.24,
+            "lng": 6.0
+        }
+    },
+    {
+        "id": 33,
+        "nom_projet": "Graines d'Inclusion (Espace Agricole)",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "83",
+        "ville": "Pierrefeu-du-Var",
+        "date": "2025",
+        "etat": "en cours",
+        "type_projet": "Agriculture & Handicap",
+        "description": "Création d'un incubateur agricole inclusif par l'association UMANE.",
+        "coordonnees": {
+            "lat": 43.2333,
+            "lng": 6.1447
+        }
+    },
+    {
+        "id": 34,
+        "nom_projet": "Formation Saisonniers Fleurs",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "06",
+        "ville": "Grasse",
+        "date": "2025",
+        "etat": "finit",
+        "type_projet": "Emploi & Agriculture",
+        "description": "Projet des Apprentis d'Auteuil pour former des saisonniers aux métiers de la fleur.",
+        "coordonnees": {
+            "lat": 43.63,
+            "lng": 6.94
+        }
+    },
+    {
+        "id": 35,
+        "nom_projet": "Recyclerie de la Gare",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "83",
+        "ville": "Hyères",
+        "date": "2025",
+        "etat": "finit",
+        "type_projet": "Environnement & Insertion",
+        "description": "Équipement de l'atelier de réparation vélo d'articles de sport (Gare de Hyères).",
+        "coordonnees": {
+            "lat": 43.11,
+            "lng": 6.13
+        }
+    },
+    {
+        "id": 36,
+        "nom_projet": "Restauration Fresques Notre-Dame des Fontaines",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "06",
+        "ville": "La Brigue",
+        "date": "09/2026",
+        "etat": "pas commencé",
+        "type_projet": "Patrimoine & Culture",
+        "description": "Travaux de conservation en vue des Journées Européennes du Patrimoine 2026.",
+        "coordonnees": {
+            "lat": 44.062,
+            "lng": 7.616
+        }
+    },
+    {
+        "id": 37,
+        "nom_projet": "Jardins Partagés de la Nartuby",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "83",
+        "ville": "Draguignan",
+        "date": "03/2026",
+        "etat": "pas commencé",
+        "type_projet": "Environnement & Solidarité",
+        "description": "Création de jardins solidaires dans le cadre de l'appel à projets DREAL 2026.",
+        "coordonnees": {
+            "lat": 43.5408,
+            "lng": 6.4664
+        }
+    },
+    {
+        "id": 38,
+        "nom_projet": "Sauvegarde du Lavoir du Gand",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "04",
+        "ville": "Sisteron",
+        "date": "04/2026",
+        "etat": "pas commencé",
+        "type_projet": "Patrimoine",
+        "description": "Projet de rénovation du petit patrimoine rural non protégé (Appel Région Sud 2026).",
+        "coordonnees": {
+            "lat": 44.1972,
+            "lng": 5.9442
+        }
+    }
+  ]
